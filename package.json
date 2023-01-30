@@ -1,9 +1,8 @@
 {
-    "name": "",
+    "name": "social-network-api",
     "version": "1.0.1",
-    "description": "Instructor demo for CRUD operations in Mongoose on subdocuments",
+    "description": "",
     "main": "index.js",
-    "license": "MIT",
     "scripts": {
       "start": "node index",
       "dev": "nodemon index",
