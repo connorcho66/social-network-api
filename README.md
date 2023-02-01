@@ -14,6 +14,10 @@ Below is the sample screenshot of Insomnia
 
 ![screenshot](./assets/screenshot.png)
 
+## Walkthrough Video
+
+https://www.youtube.com/watch?v=QoPxxDQNxkU
+
 ## Contact
 
 <ul>
